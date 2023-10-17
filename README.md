@@ -5,7 +5,7 @@
 - <b>Reports(Reports examples)</b>
   - [Vulerability report](https://github.com/Dayman2777/Reports/blob/main/Library%20Vulnerability%20assessment%20report929.docx)
 - <b>Python (Python code I've learnd)</b>
-  - [Python Code I learned in class.](https://github.com/Dayman2777/Python) <b><i>(Potentially NSFW)</b></i>
+  - [Python Code I learned in class.](https://github.com/Dayman2777/Python) <b><i></b></i>
 - <b>How to's</b>
   - [Projects I'm working on](https://github.com/Dayman2777/How-to)
   - [Download Nessus Essentials)](https://github.com/Dayman2777/How-to/blob/main/Download%20Nessus%20Essentials%20on%20VM.docx)
