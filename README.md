@@ -8,7 +8,7 @@
   - [Python Code I learned in class.](https://github.com/Dayman2777/Python) <b><i></b></i>
 - <b>How to's</b>
   - [Projects I'm working on](https://github.com/Dayman2777/How-to)
-  - [Download Nessus Essentials)](https://github.com/Dayman2777/How-to/blob/main/Download%20Nessus%20Essentials%20on%20VM.docx)
+  - [Download Nessus Essentials)](https://github.com/Dayman2777/How-To-s/blob/main/README.md)
   - [Installing Oracle and then installing Kali Linux](https://github.com/Dayman2777/How-to/blob/main/New%20Section%201.one)
   - [Install VMWare Workstation and install Kali Linux](https://github.com/Dayman2777/How-to/blob/main/How%20to%20install%20VMWare%20Workstation.docx)
   
