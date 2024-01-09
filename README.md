@@ -10,7 +10,7 @@
   - [Projects I'm working on](https://github.com/Dayman2777/How-to)
   - [Download Nessus Essentials](https://github.com/Dayman2777/How-To-s/blob/main/README.md)
   - [Installing Oracle and then installing Kali Linux](https://github.com/Dayman2777/Oracle-and-Kali/blob/main/README.md)
-  - [Install VMWare Workstation and install Kali Linux](https://github.com/Dayman2777/How-to/blob/main/How%20to%20install%20VMWare%20Workstation.docx)
+  - [Install VMWare Workstation and install Kali Linux](https://github.com/Dayman2777/VMWare-and-Kali/blob/main/README.md)
   
 
 
